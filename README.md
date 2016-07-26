@@ -1,0 +1,2 @@
+# 2016_7_26_CheBoxAndRadioButton
+利用单选钮和复选框获取用户信息
